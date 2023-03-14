@@ -165,11 +165,15 @@
         font-size: 2rem;
         color: #fff;;
     }
+     .navbar li a{
+        padding: 10px 8px;
+        font-size: 0.9rem;
+    }
 }
 @media only screen and (max-width:350px){
     .navbar li a{
         padding: 10px 8px;
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
     .top-img img{
         height: 350px;
